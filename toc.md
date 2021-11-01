@@ -3729,5 +3729,4 @@
 			18. La Jerusalén mesiánica. 
 			19. Conclusión de las visiones. 
 		4. IV. EPÍLOGO 
-			1. Oración del Espíritu y la esposa. 
-			2. Advertencias y despedida.
+			1. Oración del Espíritu y la esposa. Advertencias y despedida.
