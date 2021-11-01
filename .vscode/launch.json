@@ -1,0 +1,15 @@
+{
+    "configurations": [
+    {
+        "name": "Launch Program",
+        "program": "${workspaceFolder}/test.js",
+        "request": "launch",
+        "skipFiles": [
+            "<node_internals>/**"
+        ],
+        "type": "pwa-node"
+        //, "console": "integratedTerminal"
+        ,"outputCapture": "std"
+    }
+    ]
+}
