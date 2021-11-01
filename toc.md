@@ -1,4 +1,4 @@
-1. Génesis
+1. GÉNESIS
 	1. PRIMERA PARTE: CREACIÓN Y PRIMERA ETAPA DE LA HUMANIDAD 
 		1. I. ORÍGENES DEL CIELO Y TIERRA Gn 1:1 - Gn 4:26
 			1. Relato de la creación. Gn 1:1-31 y Gn 2:1-3
@@ -3210,7 +3210,7 @@
 			17. Llegada a Roma. 
 			18. San Pablo y los judíos de Roma. 
 			19. Actividad apostólica de San Pablo en Roma.
-53. CARTA A LOS ROMANOS 
+52. CARTA A LOS ROMANOS 
 	1. PRESENTACIÓN 
 		1. Saludo. 
 		2. Acción de gracias. 
@@ -3256,7 +3256,7 @@
 			2. Planes de viaje. 
 			3. Recomendaciones y saludos. 
 			4. Doxología. 
-54. PRIMERA CARTA A LOS CORINTIOS 
+53. PRIMERA CARTA A LOS CORINTIOS 
 	1. PRESENTACIÓN 
 		1. Saludo. 
 		2. Acción de gracias. 
@@ -3315,7 +3315,7 @@
 			1. La colecta para los cristianos de Jerusalén. 
 			2. Proyectos de viaje. 
 			3. Exhortaciones y saludos. 
-55. SEGUNDA CARTA A LOS CORINTIOS 
+54. SEGUNDA CARTA A LOS CORINTIOS 
 	1. PRESENTACIÓN 
 		1. Saludo. 
 		2. Acción de gracias. 
@@ -3358,7 +3358,7 @@
 			1. La razón de su apología. 
 			2. Recomendaciones para su próxima visita. 
 		4. VII. DESPEDIDA 
-56. CARTA A LOS GÁLATAS 
+55. CARTA A LOS GÁLATAS 
 	1. PRESENTACIÓN
 		1. Saludo. 
 		2. Amonestaciones a los gálatas. 
@@ -3379,7 +3379,7 @@
 			2. Los frutos del Espíritu y las obras de la carne. 
 			3. Caridad fraterna. 
 		2. IV. CONCLUSIÓN 
-57. CARTA A LOS EFESIOS 
+56. CARTA A LOS EFESIOS 
 	1. I. PRESENTACIÓN 
 		1. Saludo. 
 		2. Cristo, Cabeza y factor de unidad. 
@@ -3401,7 +3401,7 @@
 		6. Los siervos y los amos. 
 		7. Las armas para la lucha ascética. 
 		8. Conclusión. 
-58. CARTA A LOS FILIPENSES 
+57. CARTA A LOS FILIPENSES 
 	1. I. PRESENTACIÓN 
 		1. Saludo. 
 		2. Acción de gracias y desvelo por los creyentes. 
@@ -3422,7 +3422,7 @@
 		5. Exhortación a la perseverancia y la alegría. 
 		6. Gratitud del Apóstol. 
 		7. Despedida. 
-59. CARTA A LOS COLOSENSES 
+58. CARTA A LOS COLOSENSES 
 	1. I. PRESENTACIÓN 
 		1. Saludo. 
 		2. Acción de gracias y oración. 
@@ -3441,7 +3441,7 @@
 		4. Comportamiento en la vida familiar. 
 		5. Oración y noble conducta. 
 		6. Conclusión. 
-60. PRIMERA CARTA A LOS TESALONICENSES 
+59. PRIMERA CARTA A LOS TESALONICENSES 
 	1. Saludo. 
 	2. I. RECUERDO DE LA PREDICACIÓN Y ACOGIDA DEL EVANGELIO 
 		1. La evangelización de Tesalónica. 
@@ -3455,7 +3455,7 @@
 		3. Esperanza. 
 		4. Recomendaciones diversas. 
 		5. Oración y saludos. 
-61. SEGUNDA CARTA A LOS TESALONICENSES 
+60. SEGUNDA CARTA A LOS TESALONICENSES 
 	1. Saludo. 
 	2. I. EL JUICIO DE DIOS 
 		1. Acción de gracias. 
@@ -3469,7 +3469,7 @@
 		1. El progreso de la Palabra de Dios. 
 		2. Trabajar con constancia. 
 		3. Conclusión y saludos. 
-62. PRIMERA CARTA A TIMOTEO 
+61. PRIMERA CARTA A TIMOTEO 
 	1. Saludo. 
 	2. I. LA VERDADERA DOCTRINA 
 		1. Amonestar a los falsos doctores. 
@@ -3496,7 +3496,7 @@
 		9. Exhortación a la defensa de la fe. 
 		10. El recto uso de las riquezas. 
 		11. Despedida. 
-63. SEGUNDA CARTA A TIMOTEO 
+62. SEGUNDA CARTA A TIMOTEO 
 	1. Saludo. 
 	2. I. LA PREDICACIÓN DEL MENSAJE EVANGÉLICO 
 		1. Correspondencia a la gracia recibida. 
@@ -3514,7 +3514,7 @@
 	4. III. RECOMENDACIONES FINALES 
 		1. Noticias y encargos. 
 		2. Saludos y despedida. 
-64. CARTA A TITO 
+63. CARTA A TITO 
 	1. Saludo. 
 	2. I. MISIÓN DE TITO EN CRETA 
 		1. Selección y cualidades de los presbíteros. 
@@ -3528,12 +3528,12 @@
 	4. III. CONCLUSIÓN 
 		1. Recomendaciones finales. 
 		2. Despedida. 
-65. CARTA A FILEMÓN 
+64. CARTA A FILEMÓN 
 	1. Saludo. 
 	2. Acción de gracias. 
 	3. Intercesión en favor de Onésimo. 
 	4. Últimas recomendaciones y saludos. 
-66. CARTA A LOS HEBREOS 
+65. CARTA A LOS HEBREOS 
 	1. La grandeza del Hijo de Dios Encarnado. 
 	2. PRIMERA PARTE: LA EXCELENCIA DE LA RELIGIÓN REVELADA POR CRISTO 
 		1. I. SUPERIORIDAD DE CRISTO SOBRE LOS ÁNGELES 
@@ -3572,7 +3572,7 @@
 			4. Deberes sociales: la caridad, la hospitalidad y la virtud en el matrimonio. 
 			5. Deberes religiosos: la obediencia a los pastores legítimos y la celebración del culto. 
 			6. Despedida. 
-67. CARTA DE SANTIAGO 
+66. CARTA DE SANTIAGO 
 	1. I. INSTRUCCIONES PREVIAS 
 		1. Valor del sufrimiento. 
 		2. Origen de las tentaciones. 
@@ -3593,7 +3593,7 @@
 		3. Valor de la oración. 
 		4. Sacramento de la Unción de enfermos. 
 		5. Preocupación por los pecadores. 
-68. PRIMERA CARTA DE SAN PEDRO 
+67. PRIMERA CARTA DE SAN PEDRO 
 	1. Saludo. 
 	2. Alabanza y acción de gracias a Dios. 
 	3. I. EXHORTACIÓN A LA SANTIDAD 
@@ -3619,7 +3619,7 @@
 		1. A los presbíteros. 
 		2. A todos los fieles. 
 		3. Despedida. 
-69. SEGUNDA CARTA DE SAN PEDRO 
+68. SEGUNDA CARTA DE SAN PEDRO 
 	1. Saludo. 
 	2. I. FIDELIDAD A LA DOCTRINA RECIBIDA 
 		1. Los bienes concedidos por Dios. 
@@ -3638,7 +3638,7 @@
 		3. Doctrina escatológica. 
 		4. Consecuencias morales. 
 		5. Exhortación final y doxología. 
-70. PRIMERA CARTA DE SAN JUAN 
+69. PRIMERA CARTA DE SAN JUAN 
 	1. Prólogo. 
 	2. I. LA UNIÓN CON DIOS 
 		1. Dios es luz. 
@@ -3660,18 +3660,18 @@
 	5. IV. CONCLUSIÓN 
 		1. Pedir por los pecadores. 
 		2. La seguridad del cristiano, hijo de Dios. 
-71. SEGUNDA CARTA DE SAN JUAN 
+70. SEGUNDA CARTA DE SAN JUAN 
 	1. Saludo. 
 	2. El mandamiento de la caridad. 
 	3. Cautelas con los herejes. 
 	4. Conclusión y saludos. 
-72. TERCERA CARTA DE SAN JUAN 
+71. TERCERA CARTA DE SAN JUAN 
 	1. Saludo. 
 	2. Elogio a Gayo. 
 	3. Abusos de Diotrefes. 
 	4. Recomendación de Demetrio. 
 	5. Conclusión y saludos. 
-73. CARTA DE SAN JUDAS 
+72. CARTA DE SAN JUDAS 
 	1. Saludo y bendición. 
 	2. Motivo de la carta. 
 	3. I. DENUNCIA DE LOS FALSOS MAESTROS 
@@ -3683,7 +3683,7 @@
 		2. La virtudes teologales. 
 		3. Comportamiento con los que vacilan. 
 		4. Doxología final. 
-74. APOCALIPSIS 
+73. APOCALIPSIS 
 	1. Prólogo. 
 	2. PRIMERA PARTE: CARTAS A LAS SIETE IGLESIAS 
 		1. Saludo y destinatarios. 
