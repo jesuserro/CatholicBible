@@ -23,3 +23,4 @@ https://github.com/selfire1/BibleGateway-to-Obsidian
 
 ## Proyectos relacionados
 - El fork utilizado se basa a su vez en:  https://github.com/mkudija/BibleGateway-to-Obsidian-Catholic
+- Parseador Markdown: https://github.com/markdown-it/markdown-it
