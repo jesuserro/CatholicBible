@@ -1,4 +1,4 @@
-# Biblia cristiana en markdown
+# Biblia católica en markdown
 Una biblia católica en formato markdown para que puedas leerla, estudiarla e integrarla en tu editor favorito. Especialmente definida para [Obsidian](https://obsidian.md/)
 
 ## Detalles
