@@ -1,102 +1,102 @@
-1. GÉNESIS
-	1. PRIMERA PARTE: CREACIÓN Y PRIMERA ETAPA DE LA HUMANIDAD 
-		1. I. ORÍGENES DEL CIELO Y TIERRA Gn 1:1 - Gn 4:26
-			1. Relato de la creación. Gn 1:1-31 y Gn 2:1-3
-			2. Creación de Adán. Gn 2:4-7
-			3. El hombre en el paraíso. Gn 2:8-17
-			4. Creación de Eva. Gn 2:18-25
-			5. Tentación y primer pecado. Gn 3:1-20
-			6. Expulsión del paraíso. Gn 3:21-24
-			7. Primera descendencia de Adán y Eva. Gn 4:1-2
-			8. Caín y Abel. Gn 4:3-16
-			9. Descendencia de Caín. Gn 4:17-24
-			10. Nacimiento de Set. Gn 4:25-26
-		2. II. DESCENDENCIA DE ADÁN. DESDE SET A NOÉ
-			1. Multiplicación de la humanidad. Gn 5:1-32
-			2. Propagación del mal sobre la tierra. Gn 6:1-8
+1. GÉNESIS {1-32}
+	1. PRIMERA PARTE: CREACIÓN Y PRIMERA ETAPA DE LA HUMANIDAD {Gn 1-11,26} 
+		1. I. ORÍGENES DEL CIELO Y TIERRA {Gn 1,1-4,26}
+			1. Relato de la creación. {Gn 1,1-31.2,1-3}
+			2. Creación de Adán. {Gn 2:4b-7}
+			3. El hombre en el paraíso. {Gn 2:8-17}
+			4. Creación de Eva. {Gn 2:18-25}
+			5. Tentación y primer pecado. {Gn 3:1-20}
+			6. Expulsión del paraíso. {Gn 3:21-24}
+			7. Primera descendencia de Adán y Eva. {Gn 4:1-2}
+			8. Caín y Abel. {Gn 4:3-16}
+			9. Descendencia de Caín. {Gn 4:17-24}
+			10. Nacimiento de Set. {Gn 4:25-26}
+		2. II. DESCENDENCIA DE ADÁN. DESDE SET A NOÉ {Gn 5,1-6,1-8}
+			1. Multiplicación de la humanidad. {Gn 5,1-32}
+			2. Propagación del mal sobre la tierra. {Gn 6,1-8}
 		3. III. HISTORIA Y DESCENDENCIA DE NOÉ 
-			1. Anuncio del diluvio. 
-			2. Entrada en el arca. 
-			3. El diluvio. 
-			4. Retirada de las aguas. 
-			5. Salida del arca. 
-			6. Alianza de Dios con Noé. 
-			7. Maldición de Canaán y bendición de Sem. 
+			1. Anuncio del diluvio. {Gn 6,13-22.7,1-4}
+			2. Entrada en el arca. {Gn 7,5-10}
+			3. El diluvio. {Gn 7,11-24}
+			4. Retirada de las aguas. {Gn 8,1-14}
+			5. Salida del arca. {Gn 8,15-22}
+			6. Alianza de Dios con Noé. {Gn 9,1-17}
+			7. Maldición de Canaán y bendición de Sem. {Gn 9,18-29}
 		4. IV. ORIGEN DE LOS PUEBLOS. LA CONFUSIÓN DE BABEL
-			1. Descendientes de Jafet. 
-			2. Descendientes de Cam. 
-			3. Descendientes de Sem. 
-			4. La confusión de lenguas: Babel.
-		5. V. LOS SEMITAS 
-	2. SEGUNDA PARTE: ORIGEN Y FORMACIÓN DEL PUEBLO ELEGIDO
-		1. VI. FAMILIA E HISTORIA DE ABRAHÁN 
-			1. Vocación de Abrán y promesa divina. 
-			2. Abrán en Egipto. 
-			3. Abrán en Betel. 
-			4. Separación de Abrán y Lot. 
-			5. Nueva promesa de Dios a Abrán. 
-			6. Apresamiento de Lot. 
-			7. Liberación de Lot. 
-			8. Encuentro con Melquisedec. 
-			9. Alianza de Dios con Abrán. 
-			10. Nacimiento de Ismael. 
-			11. Renovación de la Alianza: cambio de nombre a Abrán. 
-			12. Mandato de la circuncisión. 
-			13. Cambio de nombre a Saray y promesa de un hijo a Abrahán. 
-			14. La circuncisión. 
-			15. Manifestación de Dios en Mambré. 
-			16. Promesa del nacimiento de Isaac. 
-			17. Abrahán intercede por Sodoma. 
-			18. El pecado de los habitantes de Sodoma. 
-			19. Huida de Lot y su familia. 
-			20. Destrucción de Sodoma y Gomorra. 
-			21. Los hijos de Lot: origen de los moabitas y amonitas. 
-			22. Abrahán y Sara en Guerar: encuentro con Abimélec. 
-			23. Nacimiento y circuncisión de Isaac. 
-			24. Expulsión de Agar e Ismael. 
-			25. Alianza entre Abrahán y Abimélec. 
-			26. Sacrificio de Isaac y renovación de la promesa. 
-			27. Hijos de Najor. 
-			28. La compra de la cueva de Macpelá. 
-			29. Casamiento de Isaac. 
-			30. Encuentro con Rebeca. 
-			31. Acogida en casa de Rebeca. 
-			32. Encuentro de Rebeca y de Isaac. 
-			33. Otros descendientes de Abrahán. 
-			34. Muerte y sepultura de Abrahán. 
-		2. VII. LA DESCENDENCIA DE ISMAEL 
-		3. VIII. LA DESCENDENCIA DE ISAAC. HISTORIA DE JACOB 
-			1. Nacimiento de Esaú y Jacob. 
-			2. Esaú vende los derechos de primogénito. 
-			3. Isaac en Guerar: encuentro con Abimélec. 
-			4. Conflictos por los pozos de agua. 
-			5. Manifestación de Dios a Isaac. 
-			6. Pacto de Isaac con los habitantes de Canaán. 
-			7. Jacob se hace con la bendición de Isaac. 
-			8. Reacción de Esaú. 
-			9. Partida de Jacob a la región de sus antepasados. 
-			10. Sueño de Jacob. 
-			11. Encuentro de Jacob con Labán. 
-			12. Matrimonio de Jacob con Lía y Raquel. 
-			13. Hijos de Jacob en Padán-Aram. 
-			14. Jacob proyecta marchar de casa de Labán. 
-			15. Enriquecimiento de Jacob. 
-			16. Jacob huye de casa de Labán. 
-			17. Labán da alcance a Jacob. 
-			18. Pacto entre Labán y Jacob. 
-			19. Jacob prepara el encuentro con Esaú. 
-			20. Lucha de Jacob con el ángel del Señor. Encuentro de Jacob con Esaú. 
-			21. Jacob en Siquem. 
-			22. Dina es deshonrada por Siquem. 
-			23. Venganza de los hijos de Jacob. 
-			24. Vuelta de Jacob a Betel. 
-			25. Nacimiento de Benjamín y muerte de Raquel. 
-			26. Pecado de Rubén. 
-			27. Jacob llega a Hebrón. 
-			28. Muerte de Isaac. 
-		4. IX. LA DESCENDENCIA DE ESAÚ 
-		5. X. LA DESCENDENCIA DE JACOB. HISTORIA DE JOSÉ 
-			1. José y sus hermanos. 
+			1. Descendientes de Jafet. {Gn 10,2-5}
+			2. Descendientes de Cam. {Gn 10,6-20}
+			3. Descendientes de Sem. {Gn 10,21-32}
+			4. La confusión de lenguas: Babel. {Gn 11,1-9}
+		5. V. LOS SEMITAS {Gn 11,10-26}
+	2. SEGUNDA PARTE: ORIGEN Y FORMACIÓN DEL PUEBLO ELEGIDO {Gn 11,27-32.XXXXX}
+		1. VI. FAMILIA E HISTORIA DE ABRAHÁN {Gn 11,27-25,11}
+			1. Vocación de Abrán y promesa divina. {Gn 12,1-9}
+			2. Abrán en Egipto. {Gn 12,10-20}
+			3. Abrán en Betel. {Gn 13,1-7}
+			4. Separación de Abrán y Lot. {Gn 13,8-13}
+			5. Nueva promesa de Dios a Abrán. {Gn 13,14-18}
+			6. Apresamiento de Lot. {Gn 14,1-12}
+			7. Liberación de Lot. {Gn 14,13-16}
+			8. Encuentro con Melquisedec. {Gn 14,17-24}
+			9. Alianza de Dios con Abrán. {Gn 15,1-21}
+			10. Nacimiento de Ismael. {Gn 16,1-16}
+			11. Renovación de la Alianza: cambio de nombre a Abrán. {Gn 17,1-8}
+			12. Mandato de la circuncisión. {Gn 17,9-14}
+			13. Cambio de nombre a Saray y promesa de un hijo a Abrahán. {Gn 17,15-22}
+			14. La circuncisión. {Gn 17, 23-27}
+			15. Manifestación de Dios en Mambré. {Gn 18,1-8}
+			16. Promesa del nacimiento de Isaac. {Gn 18,9-15}
+			17. Abrahán intercede por Sodoma. {Gn 18,16-33}
+			18. El pecado de los habitantes de Sodoma. {Gn 19,1-14}
+			19. Huida de Lot y su familia. {Gn 19,15-22}
+			20. Destrucción de Sodoma y Gomorra. {Gn 19,23-29}
+			21. Los hijos de Lot: origen de los moabitas y amonitas. {Gn 19,30-38} 
+			22. Abrahán y Sara en Guerar: encuentro con Abimélec. {Gn 20,1-18}
+			23. Nacimiento y circuncisión de Isaac. {Gn 21,1-7}
+			24. Expulsión de Agar e Ismael. {Gn 21,8-21}
+			25. Alianza entre Abrahán y Abimélec. {Gn 21,22-34} 
+			26. Sacrificio de Isaac y renovación de la promesa. {Gn 22,1-19} 
+			27. Hijos de Najor. {Gn 22,20-24}
+			28. La compra de la cueva de Macpelá. {Gn 23,1-20}
+			29. Casamiento de Isaac. {Gn 24,1-14}
+			30. Encuentro con Rebeca. {Gn 24,15-28}
+			31. Acogida en casa de Rebeca. {Gn 24,29-54a}
+			32. Encuentro de Rebeca y de Isaac. {Gn 24,54b-67}
+			33. Otros descendientes de Abrahán. {Gn 25,1-6}
+			34. Muerte y sepultura de Abrahán. {Gn 25,7-11}
+		2. VII. LA DESCENDENCIA DE ISMAEL {Gn 25,12-18} 
+		3. VIII. LA DESCENDENCIA DE ISAAC. HISTORIA DE JACOB {Gn 25,19-35,29}
+			1. Nacimiento de Esaú y Jacob. {Gn 25,19-26}
+			2. Esaú vende los derechos de primogénito. {Gn 25,27-34}
+			3. Isaac en Guerar: encuentro con Abimélec. {Gn 26,1-14a}
+			4. Conflictos por los pozos de agua. {Gn 26,14b-22}
+			5. Manifestación de Dios a Isaac. {Gn 26,23-25}
+			6. Pacto de Isaac con los habitantes de Canaán. {Gn 26,26-35}
+			7. Jacob se hace con la bendición de Isaac. {Gn 27,1-33}
+			8. Reacción de Esaú. {Gn 27,34-45}
+			9. Partida de Jacob a la región de sus antepasados. {Gn 27,46.28,1-9}
+			10. Sueño de Jacob. {Gn 28,10-22}
+			11. Encuentro de Jacob con Labán. {Gn 29,1-14}
+			12. Matrimonio de Jacob con Lía y Raquel. {Gn 29,15-30}
+			13. Hijos de Jacob en Padán-Aram. {Gn 29,31-35.30,1-24}
+			14. Jacob proyecta marchar de casa de Labán. {Gn 30,25-36}
+			15. Enriquecimiento de Jacob. {Gn 30,37-43}
+			16. Jacob huye de casa de Labán. {Gn 31,1-21}
+			17. Labán da alcance a Jacob. {Gn 31,22-42}
+			18. Pacto entre Labán y Jacob. {Gn 31,43-54.32,1-3}
+			19. Jacob prepara el encuentro con Esaú. {Gn 32,4-21}
+			20. Lucha de Jacob con el ángel del Señor. {Gn 32,22-33}
+			21. Encuentro de Jacob con Esaú. {Gn 33,1-15}
+			22. Jacob en Siquem. {Gn 33,16-20}
+			23. Dina es deshonrada por Siquem. {Gn 34,1-12}
+			24. Venganza de los hijos de Jacob. {Gn 34,13-31}
+			25. Vuelta de Jacob a Betel. {Gn 35,1-15}
+			26. Nacimiento de Benjamín y muerte de Raquel. {Gn 35,16-20}
+			27. Pecado de Rubén. {Gn 35,21-22a}
+			28. Jacob llega a Hebrón. Muerte de Isaac. {Gn 35,22b-29}
+		4. IX. LA DESCENDENCIA DE ESAÚ {Gn 36,1-43.37,1}
+		5. X. LA DESCENDENCIA DE JACOB. HISTORIA DE JOSÉ {}
+			1. José y sus hermanos. {Gn 37,2-4}
 			2. Los sueños de José. 
 			3. José vendido como esclavo a los egipcios. 
 			4. Historia de Judá y Tamar. 
