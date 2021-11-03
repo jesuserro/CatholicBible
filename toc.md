@@ -1,21 +1,21 @@
 1. GÉNESIS {Gn 1-50}
 	1. PRIMERA PARTE: CREACIÓN Y PRIMERA ETAPA DE LA HUMANIDAD {Gn 1,1-11,26} 
 		1. I. ORÍGENES DEL CIELO Y TIERRA {Gn 1,1-4,26}
-			1. Relato de la creación. {Gn 1,1-31.2,1-3}
-			2. Creación de Adán. {Gn 2:4b-7}
-			3. El hombre en el paraíso. {Gn 2:8-17}
-			4. Creación de Eva. {Gn 2:18-25}
-			5. Tentación y primer pecado. {Gn 3:1-20}
-			6. Expulsión del paraíso. {Gn 3:21-24}
-			7. Primera descendencia de Adán y Eva. {Gn 4:1-2}
-			8. Caín y Abel. {Gn 4:3-16}
-			9. Descendencia de Caín. {Gn 4:17-24}
-			10. Nacimiento de Set. {Gn 4:25-26}
+			1. Relato de la creación. {Gn 1,1-2,4a}
+			2. Creación de Adán. {Gn 2,4b-7}
+			3. El hombre en el paraíso. {Gn 2,8-17}
+			4. Creación de Eva. {Gn 2,18-25}
+			5. Tentación y primer pecado. {Gn 3,1-20}
+			6. Expulsión del paraíso. {Gn 3,21-24}
+			7. Primera descendencia de Adán y Eva. {Gn 4,1-2}
+			8. Caín y Abel. {Gn 4,3-16}
+			9. Descendencia de Caín. {Gn 4,17-24}
+			10. Nacimiento de Set. {Gn 4,25-26}
 		2. II. DESCENDENCIA DE ADÁN. DESDE SET A NOÉ {Gn 5,1-6,1-8}
 			1. Multiplicación de la humanidad. {Gn 5,1-32}
 			2. Propagación del mal sobre la tierra. {Gn 6,1-8}
-		3. III. HISTORIA Y DESCENDENCIA DE NOÉ 
-			1. Anuncio del diluvio. {Gn 6,13-22.7,1-4}
+		3. III. HISTORIA Y DESCENDENCIA DE NOÉ {Gn 6,9-18,29}
+			1. Anuncio del diluvio. {Gn 6,13-7,4}
 			2. Entrada en el arca. {Gn 7,5-10}
 			3. El diluvio. {Gn 7,11-24}
 			4. Retirada de las aguas. {Gn 8,1-14}
