@@ -1,5 +1,5 @@
-1. GÉNESIS {1-32}
-	1. PRIMERA PARTE: CREACIÓN Y PRIMERA ETAPA DE LA HUMANIDAD {Gn 1-11,26} 
+1. GÉNESIS {Gn 1-50}
+	1. PRIMERA PARTE: CREACIÓN Y PRIMERA ETAPA DE LA HUMANIDAD {Gn 1,1-11,26} 
 		1. I. ORÍGENES DEL CIELO Y TIERRA {Gn 1,1-4,26}
 			1. Relato de la creación. {Gn 1,1-31.2,1-3}
 			2. Creación de Adán. {Gn 2:4b-7}
@@ -28,7 +28,7 @@
 			3. Descendientes de Sem. {Gn 10,21-32}
 			4. La confusión de lenguas: Babel. {Gn 11,1-9}
 		5. V. LOS SEMITAS {Gn 11,10-26}
-	2. SEGUNDA PARTE: ORIGEN Y FORMACIÓN DEL PUEBLO ELEGIDO {Gn 11,27-32.XXXXX}
+	2. SEGUNDA PARTE: ORIGEN Y FORMACIÓN DEL PUEBLO ELEGIDO {Gn 11,27-50,26}
 		1. VI. FAMILIA E HISTORIA DE ABRAHÁN {Gn 11,27-25,11}
 			1. Vocación de Abrán y promesa divina. {Gn 12,1-9}
 			2. Abrán en Egipto. {Gn 12,10-20}
@@ -94,35 +94,37 @@
 			26. Nacimiento de Benjamín y muerte de Raquel. {Gn 35,16-20}
 			27. Pecado de Rubén. {Gn 35,21-22a}
 			28. Jacob llega a Hebrón. Muerte de Isaac. {Gn 35,22b-29}
-		4. IX. LA DESCENDENCIA DE ESAÚ {Gn 36,1-43.37,1}
-		5. X. LA DESCENDENCIA DE JACOB. HISTORIA DE JOSÉ {}
+		4. IX. LA DESCENDENCIA DE ESAÚ {Gn 36,1-37,1}
+		5. X. LA DESCENDENCIA DE JACOB. HISTORIA DE JOSÉ {Gn 37,2-50,26}
 			1. José y sus hermanos. {Gn 37,2-4}
-			2. Los sueños de José. 
-			3. José vendido como esclavo a los egipcios. 
-			4. Historia de Judá y Tamar. 
-			5. Conducta reprobable de Onán. 
-			6. Tamar engaña a Judá. 
-			7. Nacimiento de Peres, antepasado de David. 
-			8. José en Egipto, en casa de Putifar. 
-			9. José en la cárcel. José, intérprete de sueños. 
-			10. Los sueños del Faraón. 
-			11. José es nombrado visir del faraón. 
-			12. José, administrador de los bienes de Egipto. 
-			13. Los hijos de Jacob acuden a Egipto. 
-			14. José pone a prueba a sus hermanos reteniendo a Simeón. 
-			15. Los hijos de Jacob vuelven a José llevando a Benjamín. 
-			16. José prueba de nuevo a sus hermanos. 
-			17. Reacción de Judá. 
-			18. José se da a conocer a sus hermanos. 
-			19. Jacob baja a Egipto. 
-			20. Israel se asienta en la región de Gosen. 
-			21. José administra Egipto en favor del faraón. 
-			22. Jacob bendice a los hijos de José. 
-			23. Jacob adopta y bendice a Manasés y Efraím. 
-			24. Bendiciones de Jacob a sus doce hijos. 
-			25. Muerte de Jacob. Sepultura de Jacob. 
-			26. Tras la muerte de Jacob. 
-			27. Muerte de José. 
+			2. Los sueños de José. {Gn 37,5-11}
+			3. José vendido como esclavo a los egipcios. {Gn 37,12-36}
+			4. Historia de Judá y Tamar. {Gn 38,1-8}
+			5. Conducta reprobable de Onán. {Gn 38,9-11}
+			6. Tamar engaña a Judá. {Gn 38,12-26}
+			7. Nacimiento de Peres, antepasado de David. {Gn 38,27-30}
+			8. José en Egipto, en casa de Putifar. {Gn 39,1-20}
+			9. José en la cárcel. {Gn 39,21-23}
+			10. José, intérprete de sueños. {Gn 40,1-23} 
+			11. Los sueños del Faraón. {Gn 41,1-36}
+			12. José es nombrado visir del faraón. {Gn 41,37-45a}
+			13. José, administrador de los bienes de Egipto. {Gn 41,45b-57}
+			14. Los hijos de Jacob acuden a Egipto. {Gn 42,1-7}
+			15. José pone a prueba a sus hermanos reteniendo a Simeón. {Gn 42,8-38}
+			16. Los hijos de Jacob vuelven a José llevando a Benjamín. {Gn 43,1-34}
+			17. José prueba de nuevo a sus hermanos. {Gn 44,1-17}
+			18. Reacción de Judá. {Gn 44,18-34}
+			19. José se da a conocer a sus hermanos. {Gn 45,1-28}
+			20. Jacob baja a Egipto. {Gn 46,1-34}
+			21. Israel se asienta en la región de Gosen. {Gn 47,1-12}
+			22. José administra Egipto en favor del faraón. {Gn 47,13-26}
+			23. Jacob bendice a los hijos de José. {Gn 47,27-31}
+			24. Jacob adopta y bendice a Manasés y Efraím. {Gn 48,1-22}
+			25. Bendiciones de Jacob a sus doce hijos. {Gn 49,1-28}
+			26. Muerte de Jacob. {Gn 49,29-33}
+			27. Sepultura de Jacob. {Gn 50,1-14}
+			28. Tras la muerte de Jacob. {Gn 50,15-23}
+			29. Muerte de José. {Gn 50,24-26}
 2. ÉXODO
 	1. PRIMERA PARTE: LA SALIDA DE EGIPTO 
 		1. I. LOS HIJOS DE ISRAEL EN EGIPTO 
