@@ -3,8 +3,10 @@ Una biblia católica en formato markdown para que puedas leerla, estudiarla e in
 
 ## Detalles
 Se toma como base la Biblia católica con 73 libros definidos en [este índice](./Biblia.md). Se añaden versículos sobre la divinidad de Cristo omitidos en las biblias católicas y que sí son considerados en el resto de biblias protestantes. Pero no es una biblia protestante. Más adelante entraremos en detalles sobre esto.
+
 ## Source
 Forked from: https://github.com/olagato33/BibleGateway-to-Obsidian
+
 ## Instrucciones descarga de capítulos:
 En la terminal favorita hacer:
 ``` bash
