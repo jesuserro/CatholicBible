@@ -1,13 +1,15 @@
+const { ENOTEMPTY } = require('constants');
 var fs = require('fs');
+var iterator = require('markdown-it-for-inline');
 var MarkdownIt = require('markdown-it');
 var md = new MarkdownIt();
 
-// var toc = fs.readFileSync('./toc.md', 'utf8');
-// var result = md.parse(toc);
-// fs.writeFileSync( "./toc.json", JSON.stringify(result) );
+var file = './toc.json';
 
-var result = md.renderInline('# markdown-it rulezz!');
-console.log(result);
 
-result = md.render('# markdown-it rulezz!');
-console.log(result);
+md.use(iterator, 'foo_replace', 'text', function (tokens, idx) {
+    tokens[idx].content = tokens[idx].content.replace(/foo/g, 'bar');
+    console.log( arguments );
+});
+
+var result = md.render(file);

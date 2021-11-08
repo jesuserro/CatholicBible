@@ -1,0 +1,23 @@
+{
+  "name": "biblia-catolica-markdown",
+  "version": "1.0.0",
+  "description": "Una biblia católica en formato markdown para que puedas leerla, estudiarla e integrarla en tu editor favorito. Especialmente definida para [Obsidian](https://obsidian.md/)",
+  "main": "bible-basic-iteration.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olagato33/biblia-cristiana-markdown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olagato33/biblia-cristiana-markdown/issues"
+  },
+  "homepage": "https://github.com/olagato33/biblia-cristiana-markdown#readme",
+  "devDependencies": {
+    "xslt3": "^2.3.0"
+  }
+}
