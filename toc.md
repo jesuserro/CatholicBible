@@ -1655,8 +1655,8 @@
 			4. La audacia del sabio. 
 			5. Sabiduría y juventud. 
 			6. El pensamiento de la muerte. 
-		3. TODO ES VANIDAD 
-		4. EPÍLOGO 
+	3. TODO ES VANIDAD 
+	4. EPÍLOGO 
 26. CANTAR DE LOS CANTARES 
 	1. TÍTULO Y PRÓLOGO 
 	2. PRIMER POEMA: ENCUENTRO 
