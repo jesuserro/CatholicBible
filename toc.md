@@ -1256,28 +1256,28 @@
 19. ESTER 
 	1. PRÓLOGO 
 		1. El sueño de Mardoqueo.
-		2. I. ESTER, CONVERTIDA EN REINA 
-			1. El repudio de Vasti. 
-			2. Elección de Ester.
-		3. II. MARDOQUEO Y AMÁN SE ENFRENTAN 
-			1. Mardoqueo denuncia una conspiración contra el rey. 
-			2. Mardoqueo se niega a reverenciar a Amán. 
-		4. III. DECRETO DE EXTERMINIO DE LOS JUDÍOS 
-		5. IV. LOS JUDÍOS CLAMAN A DIOS 
-			1. Oración de los judíos. 
-			2. Mardoqueo pide a Ester que interceda por su pueblo. 
-			3. Oración de Mardoqueo. 
-			4. Oración de Ester. 
-		6. V. MARDOQUEO SE IMPONE SOBRE AMÁN 
-			1. Ester se presenta ante el rey. 
-			2. El rey se acuerda de Mardoqueo. 
-		7. VI. DIOS SALVA A SU PUEBLO DEL EXTERMINIO 
-			1. Amán cae en desgracia. 
-			2. Mardoqueo ocupa el puesto de Amán. 
-			3. Se autoriza a los judíos a defenderse. 
-			4. Los judíos se desquitan de sus perseguidores. 
-			5. Se instituye una fiesta conmemorativa.
-		8. EPÍLOGO Interpretación del sueño de Mardoqueo. 
+	2. I. ESTER, CONVERTIDA EN REINA 
+		1. El repudio de Vasti. 
+		2. Elección de Ester.
+	3. II. MARDOQUEO Y AMÁN SE ENFRENTAN 
+		1. Mardoqueo denuncia una conspiración contra el rey. 
+		2. Mardoqueo se niega a reverenciar a Amán. 
+	4. III. DECRETO DE EXTERMINIO DE LOS JUDÍOS 
+	5. IV. LOS JUDÍOS CLAMAN A DIOS 
+		1. Oración de los judíos. 
+		2. Mardoqueo pide a Ester que interceda por su pueblo. 
+		3. Oración de Mardoqueo. 
+		4. Oración de Ester. 
+	6. V. MARDOQUEO SE IMPONE SOBRE AMÁN 
+		1. Ester se presenta ante el rey. 
+		2. El rey se acuerda de Mardoqueo. 
+	7. VI. DIOS SALVA A SU PUEBLO DEL EXTERMINIO 
+		1. Amán cae en desgracia. 
+		2. Mardoqueo ocupa el puesto de Amán. 
+		3. Se autoriza a los judíos a defenderse. 
+		4. Los judíos se desquitan de sus perseguidores. 
+		5. Se instituye una fiesta conmemorativa.
+	8. EPÍLOGO Interpretación del sueño de Mardoqueo. 
 20. 1 MACABEOS 
 	1. I. HELENIZACIÓN DE JERUSALÉN 
 		1. Alejandro Magno y sus sucesores. 
