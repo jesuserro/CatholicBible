@@ -26,7 +26,7 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 - Supporting Multi-Language Translations for Broader Access
 
 ### Easy to use
-- Just Clone the Bible in your Obsidian [Vault](https://help.obsidian.md/Getting+started/Create+a+vault) and Enjoy!
+- Just Cloning the Bible in your Obsidian [Vault](https://help.obsidian.md/Getting+started/Create+a+vault) and Enjoy!
 - Adding your own Notes and Thoughts
 - Incorporating Historical Context to Deepen Interpretation
 - Connecting Verses to Other Books and Chapters
