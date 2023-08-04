@@ -1,6 +1,3 @@
-Certainly! Here's the updated README.md file with the added ideas:
-
-```markdown
 # Catholic Bible in Markdown: The True and Loyal Perspective on Christ's Divinity
 
 ## Overview
@@ -48,6 +45,3 @@ This project is licensed under the **MIT License**, allowing for free usage, mod
 
 Copyright (c) 2023 Jesús Erro
 For details, please see the [LICENSE](LICENSE) file.
-```
-
-Feel free to use this updated content for your GitHub project page's README.md. It includes the new ideas and features you requested.
