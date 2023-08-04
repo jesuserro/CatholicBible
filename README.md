@@ -1,14 +1,14 @@
 # Bible in Markdown: An Ancient Perspective on Christ's Divinity
 
-Welcome to the **Bible in Markdown** repository, where you can explore a unique representation of the Bible that seeks to remain faithful to the translations of early Christians regarding the divinity of Christ. This project is designed to provide a convenient way to read, study, and integrate the Bible into your favorite text editor, with a focus on compatibility with Obsidian.
+Welcome to the **Bible in Markdown** repository, where you can explore a unique representation of the Bible that seeks to remain faithful to the translations of early Christians regarding the divinity of Christ. This project is designed to provide a convenient way to read, study, and integrate the Bible into your favorite text editor, with a focus on compatibility with [Obsidian](https://obsidian.md/).
 
 ## Highlights
 
-- **Ancient Christian Tradition:** Rooted in the perspectives of early Christians, this Markdown representation of the Bible strives to uphold and preserve verses about the divinity of Christ that are sometimes omitted in modern Catholic translations. The approach is more akin to the spirit of translations like the Jerusalem Bible or the Reina Valera, rather than the modern, diluted Catholic translations that may downplay Christ's divinity.
+- **Ancient Christian Tradition:** Rooted in the perspectives of early Christians, this Markdown representation of the Bible strives to uphold and preserve verses about the divinity of Christ that are sometimes omitted in modern Catholic translations. The approach is more akin to the spirit of translations like the [Jerusalem Bible](https://en.wikipedia.org/wiki/Jerusalem_Bible) or the [Reina Valera](https://en.wikipedia.org/wiki/Reina-Valera), rather than the modern, diluted Catholic translations that may downplay Christ's divinity.
 
 ## Exploring the Bible
 
-I invite you to explore this distinctive perspective on the Bible's portrayal of Christ's divinity within the Markdown framework. As you engage with the scriptures, you'll encounter passages that emphasize and uphold the profound nature of Christ's divinity, offering a richer understanding of the theological beliefs held by early Christians.
+We invite you to explore this distinctive perspective on the Bible's portrayal of Christ's divinity within the Markdown framework. As you engage with the scriptures, you'll encounter passages that emphasize and uphold the profound nature of Christ's divinity, offering a richer understanding of the theological beliefs held by early Christians.
 
 ## Project Philosophy
 
@@ -20,14 +20,14 @@ Your feedback and contributions are highly valued as we strive to refine and enh
 
 ### How to Contribute
 
-1. Fork this repository.
+1. Fork this [repository](https://github.com/yourusername/your-repo).
 2. Create a new branch for your changes.
 3. Make your changes and additions.
-4. Submit a pull request, detailing the changes you've made.
+4. Submit a [pull request](https://github.com/yourusername/your-repo/compare).
 
 ## Contact
 
-For any questions, feedback, or inquiries, please contact [your@email.com].
+For any questions, feedback, or inquiries, please contact [your@email.com](mailto:your@email.com).
 
 ## License
 
