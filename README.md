@@ -17,7 +17,7 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 
 ### Markdown
 
-- Designed for Seamless Usage with [Obsidian](https://obsidian.md/)
+- Designed for Seamless Usage with your favourite Markdown editor: [Obsidian](https://obsidian.md/), [Typora](https://typora.io/), [Logseq](https://logseq.com/), [Tara](https://tara-notes.com/), and [VSCode](https://code.visualstudio.com/)
   - Your thoughts are yours
   - Your knowledge should last
   - Your mind is unique
