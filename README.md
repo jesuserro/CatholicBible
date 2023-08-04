@@ -41,4 +41,8 @@ Explore the **Bible in Markdown** project, offering an authentic glimpse into th
 
 ## License
 
-This project operates under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Feel free to use, modify, and share the content for non-commercial purposes while providing appropriate credit and sharing under the same license.
+This project is licensed under the **MIT License**, allowing for free usage, modification, and distribution for non-commercial purposes, driven by faith and service to Jesus Christ, while providing some liability protection.
+
+Copyright (c) 2023 Jesús Erro
+For details, please see the [LICENSE](LICENSE) file.
+
