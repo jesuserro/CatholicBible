@@ -8,8 +8,7 @@ Explore the **Bible in Markdown** project, offering a true and loyal glimpse int
 
 - Rooted in [Early Christian Traditions](https://en.wikipedia.org/wiki/Early_Christianity)
 - Faithfully Represented Verses on Christ's Divinity
-- Explore the Richness of Early Christian Interpretations
-- Gain Insights into the Profound Theological Beliefs of the Time
+- Explore the Richness of Early Christian Tradition
 
 ## Explore the True and Loyal Christian Tradition
 
