@@ -17,19 +17,21 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 
 ### Markdown for your own benefit
 
-  - Designed for Seamless Usage with [Obsidian](https://obsidian.md/)
-    - Add your own notes and thoughts
-      - Incorporating Historical Context to Deepen Interpretation
-      - Connecting Verses to Other Books and Chapters
-      - Exploring Symbolism and Allegorical Interpretations
-    - Your thoughts are yours
-    - Your knowledge should last
-    - Your mind is unique
-  - Comprehensive Section Divisions for Better Understanding
-  - Interlinked Files for Easy Navigation and Reference
-  - Supporting Multi-Language Translations for Broader Access
-  
+- Designed for Seamless Usage with [Obsidian](https://obsidian.md/
+  - Your thoughts are yours
+  - Your knowledge should last
+  - Your mind is unique
+- Comprehensive Section Divisions for Better Understanding
+- Interlinked Files for Easy Navigation and Reference
+- Supporting Multi-Language Translations for Broader Access
 
+### Easy to Use
+
+- Add your own notes and thoughts
+- Incorporating Historical Context to Deepen Interpretation
+- Connecting Verses to Other Books and Chapters
+- Exploring Symbolism and Allegorical Interpretations
+  
 ## Get Involved
 
 - Fork the Repository to Initiate Contributions
