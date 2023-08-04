@@ -12,7 +12,7 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
   - Gain Insights into the Profound Theological Knowledge of the Tradition
 - Emphasis on Maintaining the Integrity of Christ's Divinity
   - Faithfully Represented Verses on Christ's Divinity
-- Delve into Verses Often Omitted in Modern Catholic Translations
+  - Delve into Verses Often Omitted in Modern Catholic Translations
 - Contrasting Modern, Diluted Catholic Translations
 
 ### Markdown for your own benefit
@@ -22,12 +22,6 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
   - Your knowledge should last
   - Your mind is unique
 
-## Contributions and Engagement
-
-- Your Feedback and Contributions are Invaluable
-- Contribute Corrections, Suggestions, and Enhancements
-- Join a Community of Enthusiasts Exploring the Bible's Depth
-
 ## Get Involved
 
 - Fork the Repository to Initiate Contributions
@@ -36,8 +30,8 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 
 ## Connect and Communicate
 
-- Join Discussions and Conversations in the [Issues Section](https://github.com/jesuserro/CatholicBible/issues)
-- Engage in Conversations and Share Insights in the [Discussions Forum](https://github.com/jesuserro/CatholicBible/discussions)
+- Contribute Corrections, Suggestions, and Enhancements in the [Issues Section](https://github.com/jesuserro/CatholicBible/issues)
+- Join a Community of Enthusiasts Exploring the Bible's Depth, Engage in Conversations and Share Insights in the [Discussions Forum](https://github.com/jesuserro/CatholicBible/discussions)
 
 ## License
 
