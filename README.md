@@ -1,28 +1,35 @@
-# Biblia católica en markdown
-Una biblia católica en formato markdown para que puedas leerla, estudiarla e integrarla en tu editor favorito. Especialmente definida para [Obsidian](https://obsidian.md/)
+# Biblia Markdown: A Traditional Catholic Perspective
 
-## Detalles
-Se toma como base la Biblia católica con 73 libros definidos en [este índice](./Biblia.md). Se añaden versículos sobre la divinidad de Cristo omitidos en las biblias católicas y que sí son considerados en el resto de biblias protestantes. Pero no es una biblia protestante. Más adelante entraremos en detalles sobre esto.
+Welcome to the **Biblia Markdown** repository, where you can explore the Catholic Bible in Markdown format. This project is designed to provide a convenient way to read, study, and integrate the Bible into your favorite text editor, with a focus on compatibility with Obsidian.
 
-## Source
-Forked from: https://github.com/olagato33/BibleGateway-to-Obsidian
+## Highlights
 
-## Instrucciones descarga de capítulos:
-En la terminal favorita hacer:
-``` bash
-cd /var/www/biblia-cristiana-markdown
-bash bg2obs.sh -v RVR1960 -baie
-```
+- **Catholic Tradition:** Rooted in the traditional Catholic faith, this Markdown representation of the Bible encompasses 73 books, each thoughtfully organized for easy navigation.
+- **Traditional Approach:** While adhering to the Catholic canon, we've included verses regarding the divinity of Christ that are often omitted in modern Catholic Bibles, yet remain significant in many Protestant translations. This approach aims to provide a comprehensive perspective without aligning strictly with either tradition.
 
-## Versiones y lenguajes
-Como ejemplo orientativo, se toman las versiones que hacen en Biblegateway.com:
+## Exploring the Bible
 
-https://www.biblegateway.com/versions/
+We invite you to explore the richness of the Catholic Bible and its theological nuances within this Markdown framework. As you journey through the scriptures, you'll find passages that offer insights into the divinity of Christ, fostering a deeper understanding of both Catholic and broader Christian perspectives.
 
-## Forked from
-Este proyecyo se basa en: 
-https://github.com/selfire1/BibleGateway-to-Obsidian
+## Project Philosophy
 
-## Proyectos relacionados
-- El fork utilizado se basa a su vez en:  https://github.com/mkudija/BibleGateway-to-Obsidian-Catholic
-- Parseador Markdown: https://github.com/markdown-it/markdown-it
+Please note that this project seeks to create a balanced representation of the Catholic perspective while acknowledging the inclusion of certain verses that might be more emphasized in Protestant traditions. The goal is to facilitate meaningful exploration and study of the Word, fostering cross-denominational understanding.
+
+## Contributions and Feedback
+
+Your feedback and contributions are highly valued as we aim to refine and enhance this unique resource. If you have corrections, suggestions, or improvements to share, we welcome your input.
+
+### How to Contribute
+
+1. Fork this repository.
+2. Create a new branch for your changes.
+3. Make your changes and additions.
+4. Submit a pull request, detailing the changes you've made.
+
+## Contact
+
+For any questions, feedback, or inquiries, please contact [your@email.com].
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to use, modify, and share the content for non-commercial purposes, provided you give appropriate credit and share under the same license.
