@@ -1,16 +1,17 @@
-# Bible in Markdown: An Ancient Perspective on Christ's Divinity
+# Bible in Markdown: The True and Loyal Perspective on Christ's Divinity
 
 ## Overview
 
-Explore the **Bible in Markdown** project, offering an authentic glimpse into the divinity of Christ through early Christian translations. This repository provides a user-friendly way to read, study, and integrate the Bible into your preferred text editor, with a focus on compatibility with [Obsidian](https://obsidian.md/).
+Explore the **Bible in Markdown** project, offering a true and loyal glimpse into the divinity of Christ through [Early Christians tradition](https://en.wikipedia.org/wiki/Early_Christianity). This repository provides a user-friendly way to read, study, and integrate the Bible into your preferred text editor.
 
 ## Key Features
 
-- Rooted in Early Christian Traditions
+- Rooted in [Early Christian Traditions](https://en.wikipedia.org/wiki/Early_Christianity)
 - Faithfully Represented Verses on Christ's Divinity
-- Designed for Seamless Usage with Obsidian
+- Explore the Richness of Early Christian Interpretations
+- Gain Insights into the Profound Theological Beliefs of the Time
 
-## Explore the Ancient Christian Tradition
+## Explore the True and Loyal Christian Tradition
 
 - Delve into Verses Often Omitted in Modern Catholic Translations
 - Experience the Richness of Early Christian Interpretations
@@ -21,6 +22,12 @@ Explore the **Bible in Markdown** project, offering an authentic glimpse into th
 - Emphasis on Maintaining the Integrity of Christ's Divinity
 - Providing a Balanced and Comprehensive Perspective
 - Contrasting Modern, Diluted Catholic Translations
+
+## In Markdown for your own benefit
+  - Designed for Seamless Usage with [Obsidian](https://obsidian.md/)
+  - Your thoughts are yours
+  - Your knowledge should last
+  - Your mind is unique
 
 ## Contributions and Engagement
 
@@ -45,4 +52,3 @@ This project is licensed under the **MIT License**, allowing for free usage, mod
 
 Copyright (c) 2023 Jesús Erro
 For details, please see the [LICENSE](LICENSE) file.
-
