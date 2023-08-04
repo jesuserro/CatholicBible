@@ -4,7 +4,9 @@
 
 Explore the **Catholic Bible** in Markdown format, offering a true and loyal glimpse into the divinity of Christ through [Early Christians tradition](https://en.wikipedia.org/wiki/Early_Christianity). This repository provides a user-friendly way to read, study, and integrate the Bible and your thoughts into your preferred text editor.
 
-## Spiritual Highlights
+## Highlights
+
+### The Bible
 
 - Rooted in the Richness of [Early Christian Traditions](https://en.wikipedia.org/wiki/Early_Christianity)
 - Emphasis on Maintaining the Integrity of Christ's Divinity
@@ -13,7 +15,8 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 - Gain Insights into the Profound Theological Beliefs of the Tradition
 - Contrasting Modern, Diluted Catholic Translations
 
-## In Markdown for your own benefit
+### Markdown for your own benefit
+
   - Designed for Seamless Usage with [Obsidian](https://obsidian.md/)
   - Your thoughts are yours
   - Your knowledge should last
