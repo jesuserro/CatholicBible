@@ -17,7 +17,7 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 
 ### Markdown
 
-- Designed for Seamless Usage with [Obsidian](https://obsidian.md/
+- Designed for Seamless Usage with [Obsidian](https://obsidian.md/)
   - Your thoughts are yours
   - Your knowledge should last
   - Your mind is unique
