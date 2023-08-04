@@ -4,7 +4,7 @@ Welcome to the **Bible in Markdown** repository, where you can explore a unique 
 
 ## Highlights
 
-- **Ancient Christian Tradition:** Rooted in the perspectives of early Christians, this Markdown representation of the Bible strives to uphold and preserve verses about the divinity of Christ that are sometimes omitted in modern Catholic translations. The approach is more akin to the spirit of translations like the [Jerusalem Bible](https://en.wikipedia.org/wiki/Jerusalem_Bible) or the [Reina Valera](https://en.wikipedia.org/wiki/Reina-Valera), rather than the modern, diluted Catholic translations that may downplay Christ's divinity.
+- **Ancient Christian Tradition:** Rooted in the perspectives of early Christians, this Markdown representation of the Bible strives to uphold and preserve verses about the divinity of Christ that are sometimes omitted in modern Catholic translations. The approach is more akin to the spirit of translations like the [Jerusalem Bible](https://en.wikipedia.org/wiki/Jerusalem_Bible), rather than the modern, diluted Catholic translations that may downplay Christ's divinity.
 
 ## Exploring the Bible
 
@@ -20,14 +20,14 @@ Your feedback and contributions are highly valued as we strive to refine and enh
 
 ### How to Contribute
 
-1. Fork this [repository](https://github.com/yourusername/your-repo).
+1. Fork this [repository](https://github.com/jesuserro/CatholicBible).
 2. Create a new branch for your changes.
 3. Make your changes and additions.
-4. Submit a [pull request](https://github.com/yourusername/your-repo/compare).
+4. Submit a [pull request](https://github.com/jesuserro/CatholicBible/compare).
 
 ## Contact
 
-For any questions, feedback, or inquiries, please contact [your@email.com](mailto:your@email.com).
+For any questions, feedback, or inquiries, please refer to the [Issues](https://github.com/jesuserro/CatholicBible/issues) section for discussions or start a conversation in the [Discussions](https://github.com/jesuserro/CatholicBible/discussions) forum.
 
 ## License
 
