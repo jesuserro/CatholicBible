@@ -4,22 +4,13 @@
 
 Explore the **Bible in Markdown** project, offering a true and loyal glimpse into the divinity of Christ through [Early Christians tradition](https://en.wikipedia.org/wiki/Early_Christianity). This repository provides a user-friendly way to read, study, and integrate the Bible into your preferred text editor.
 
-## Key Features
+## Spiritual Highlights
 
-- Rooted in [Early Christian Traditions](https://en.wikipedia.org/wiki/Early_Christianity)
-- Faithfully Represented Verses on Christ's Divinity
-- Explore the Richness of Early Christian Tradition
-
-## Explore the True and Loyal Christian Tradition
-
-- Delve into Verses Often Omitted in Modern Catholic Translations
-- Experience the Richness of Early Christian Interpretations
-- Gain Insights into the Profound Theological Beliefs of the Time
-
-## Project Philosophy
-
+- Rooted in the Richness of [Early Christian Traditions](https://en.wikipedia.org/wiki/Early_Christianity)
 - Emphasis on Maintaining the Integrity of Christ's Divinity
-- Providing a Balanced and Comprehensive Perspective
+  - Faithfully Represented Verses on Christ's Divinity
+- Delve into Verses Often Omitted in Modern Catholic Translations
+- Gain Insights into the Profound Theological Beliefs of the Tradition
 - Contrasting Modern, Diluted Catholic Translations
 
 ## In Markdown for your own benefit
