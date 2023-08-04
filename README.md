@@ -9,10 +9,10 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 ### The Bible
 
 - Rooted in the Richness of [Early Christian Traditions](https://en.wikipedia.org/wiki/Early_Christianity)
+  - Gain Insights into the Profound Theological Knowledge of the Tradition
 - Emphasis on Maintaining the Integrity of Christ's Divinity
   - Faithfully Represented Verses on Christ's Divinity
 - Delve into Verses Often Omitted in Modern Catholic Translations
-- Gain Insights into the Profound Theological Beliefs of the Tradition
 - Contrasting Modern, Diluted Catholic Translations
 
 ### Markdown for your own benefit
