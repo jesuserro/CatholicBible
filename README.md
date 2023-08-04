@@ -20,6 +20,7 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
   - Designed for Seamless Usage with [Obsidian](https://obsidian.md/)
     - Add your own notes and thoughts
       - Incorporating Historical Context to Deepen Interpretation
+      - Connecting Verses to Other Books and Chapters
       - Exploring Symbolism and Allegorical Interpretations
     - Your thoughts are yours
     - Your knowledge should last
