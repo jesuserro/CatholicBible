@@ -1,4 +1,4 @@
-# Catholic Bible in Markdown: The True and Loyal Perspective on Christ's Divinity
+# Catholic Bible in Markdown
 
 ## Overview
 
