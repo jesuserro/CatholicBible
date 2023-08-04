@@ -14,6 +14,11 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
   - Faithfully Represented Verses on Christ's Divinity
 - Contrasting Modern or Diluted Catholic Translations
   - Delve into Verses Often Omitted in Modern Catholic Translations
+  
+#### Inspired by the Jerusalem Bible
+
+Our project draws inspiration from the esteemed **Jerusalem Bible**, known for its scholarly approach and dedication to capturing the literary and cultural nuances of the original texts. Just as the Jerusalem Bible seeks to provide a comprehensive understanding of the Scriptures, our Markdown-based Catholic Bible aims to offer a true and loyal perspective on Christ's divinity through Early Christian tradition. Join us on a journey to explore the profound theological insights of the past while seamlessly integrating your notes and knowledge using modern Markdown editors.
+
 
 ### Markdown
 
