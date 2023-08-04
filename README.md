@@ -1,4 +1,4 @@
-# Bible in Markdown: An Ancient Perspective on Christ's Divinity
+# Bible in Markdown: A Loyal Perspective on Christ's Divinity
 
 Welcome to the **Bible in Markdown** repository, where you can explore a unique representation of the Bible that seeks to remain faithful to the translations of early Christians regarding the divinity of Christ. This project is designed to provide a convenient way to read, study, and integrate the Bible into your favorite text editor, with a focus on compatibility with [Obsidian](https://obsidian.md/).
 
