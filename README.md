@@ -15,10 +15,8 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 - Contrasting Modern or Diluted Catholic Translations
   - Delve into Verses Often Omitted in Modern Catholic Translations
 - Inspired by the [Jerusalem Bible](https://en.wikipedia.org/wiki/Jerusalem_Bible)
-  - Known for its scholarly approach and dedication to capturing the literary and cultural nuances of the original texts. 
-  - It seeks to provide a comprehensive understanding of the Scriptures. 
-
-
+  - Known for its scholarly approach and dedication to capturing the literary and cultural nuances of the original Hebrew and Greek texts of the Scriptures 
+  - The Jerusalem Bible seeks to provide an authentic understanding of the Bible's original languages
 
 ### Markdown
 
