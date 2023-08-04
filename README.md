@@ -15,7 +15,7 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 - Contrasting Modern or Diluted Catholic Translations
   - Delve into Verses Often Omitted in Modern Catholic Translations
 
-### Markdown for your own benefit
+### Markdown
 
 - Designed for Seamless Usage with [Obsidian](https://obsidian.md/
   - Your thoughts are yours
@@ -25,8 +25,8 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 - Interlinked Files for Easy Navigation and Reference
 - Supporting Multi-Language Translations for Broader Access
 
-### Add your own notes and thoughts
-
+### Easy to use
+- Adding your own notes and thoughts
 - Incorporating Historical Context to Deepen Interpretation
 - Connecting Verses to Other Books and Chapters
 - Exploring Symbolism and Allegorical Interpretations
