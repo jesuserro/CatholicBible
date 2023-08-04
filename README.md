@@ -2,7 +2,7 @@
 
 ## Overview
 
-Explore the **Catholic Bible** in Markdown format, offering a true and loyal glimpse into the divinity of Christ through [Early Christians tradition](https://en.wikipedia.org/wiki/Early_Christianity). This repository provides a user-friendly way to read, study, and integrate the Bible and your thoughts into your preferred text editor.
+Explore the **Catholic Bible** in Markdown format, offering a true and loyal glimpse into the divinity of Christ through [Early Christians tradition](https://en.wikipedia.org/wiki/Early_Christianity). This repository provides a user-friendly way to read, study, and integrate the Bible into your preferred text editor.
 
 ## Highlights
 
