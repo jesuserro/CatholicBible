@@ -26,7 +26,8 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 - Supporting Multi-Language Translations for Broader Access
 
 ### Easy to use
-- Adding your own notes and thoughts
+- Just Clone the Bible and Enjoy!
+- Adding your own Notes and Thoughts
 - Incorporating Historical Context to Deepen Interpretation
 - Connecting Verses to Other Books and Chapters
 - Exploring Symbolism and Allegorical Interpretations
