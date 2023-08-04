@@ -1,23 +1,22 @@
-# Biblia Markdown: A Traditional Catholic Perspective
+# Bible in Markdown: An Ancient Perspective on Christ's Divinity
 
-Welcome to the **Biblia Markdown** repository, where you can explore the Catholic Bible in Markdown format. This project is designed to provide a convenient way to read, study, and integrate the Bible into your favorite text editor, with a focus on compatibility with Obsidian.
+Welcome to the **Bible in Markdown** repository, where you can explore a unique representation of the Bible that seeks to remain faithful to the translations of early Christians regarding the divinity of Christ. This project is designed to provide a convenient way to read, study, and integrate the Bible into your favorite text editor, with a focus on compatibility with Obsidian.
 
 ## Highlights
 
-- **Catholic Tradition:** Rooted in the traditional Catholic faith, this Markdown representation of the Bible encompasses 73 books, each thoughtfully organized for easy navigation.
-- **Traditional Approach:** While adhering to the Catholic canon, we've included verses regarding the divinity of Christ that are often omitted in modern Catholic Bibles, yet remain significant in many Protestant translations. This approach aims to provide a comprehensive perspective without aligning strictly with either tradition.
+- **Ancient Christian Tradition:** Rooted in the perspectives of early Christians, this Markdown representation of the Bible strives to uphold and preserve verses about the divinity of Christ that are sometimes omitted in modern Catholic translations. The approach is more akin to the spirit of translations like the Jerusalem Bible or the Reina Valera, rather than the modern, diluted Catholic translations that may downplay Christ's divinity.
 
 ## Exploring the Bible
 
-We invite you to explore the richness of the Catholic Bible and its theological nuances within this Markdown framework. As you journey through the scriptures, you'll find passages that offer insights into the divinity of Christ, fostering a deeper understanding of both Catholic and broader Christian perspectives.
+I invite you to explore this distinctive perspective on the Bible's portrayal of Christ's divinity within the Markdown framework. As you engage with the scriptures, you'll encounter passages that emphasize and uphold the profound nature of Christ's divinity, offering a richer understanding of the theological beliefs held by early Christians.
 
 ## Project Philosophy
 
-Please note that this project seeks to create a balanced representation of the Catholic perspective while acknowledging the inclusion of certain verses that might be more emphasized in Protestant traditions. The goal is to facilitate meaningful exploration and study of the Word, fostering cross-denominational understanding.
+This project is guided by the intention to remain loyal to the translations and interpretations of the earliest Christians, particularly in relation to the divinity of Christ. The focus is on presenting a robust and authentic representation of these elements, in contrast to certain modern Catholic translations that might diminish Christ's divinity.
 
 ## Contributions and Feedback
 
-Your feedback and contributions are highly valued as we aim to refine and enhance this unique resource. If you have corrections, suggestions, or improvements to share, we welcome your input.
+Your feedback and contributions are highly valued as we strive to refine and enhance this distinctive resource. If you have corrections, suggestions, or improvements to offer, we welcome your insights.
 
 ### How to Contribute
 
