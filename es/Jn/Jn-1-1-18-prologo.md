@@ -1,4 +1,4 @@
-# Prólogo - Juan 1,1-18
+# Prólogo (Jn 1:1-18)
 
 1 En el principio existía el Verbo,
   y el Verbo estaba con Dios,
