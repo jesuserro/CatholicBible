@@ -1,36 +1,83 @@
-# Evangelio de San Juan
-
-1. **Prólogo - Juan 1,1-18**
-2. **Testimonio de Juan el Bautista - Juan 1,19-34**
-3. **Llamado de los primeros discípulos - Juan 1,35-51**
-4. **Bodas de Caná - Juan 2,1-12**
-5. **Limpieza del Templo - Juan 2,13-22**
-6. **Diálogo con Nicodemo - Juan 3,1-21**
-7. **Ministerio en Judea - Juan 3,22-4,3**
-8. **Encuentro con la mujer samaritana - Juan 4,4-42**
-9. **Sanación del hijo de un oficial - Juan 4,43-54**
-10. **Sanidad en el estanque de Betesda - Juan 5,1-18**
-11. **Discurso sobre la vida y la muerte - Juan 5,19-47**
-12. **Multiplicación de los panes - Juan 6,1-15**
-13. **Jesús camina sobre el agua - Juan 6,16-21**
-14. **Discurso del pan de vida - Juan 6,22-71**
-15. **Fiesta de los Tabernáculos - Juan 7,1-52**
-16. **Adúltera perdonada - Juan 7,53-8,11**
-17. **Discurso de la luz del mundo - Juan 8,12-30**
-18. **Libertad y esclavitud - Juan 8,31-59**
-19. **Sanación del ciego de nacimiento - Juan 9,1-41**
-20. **Parábola del buen pastor - Juan 10,1-21**
-21. **Jesús y el Padre - Juan 10,22-42**
-22. **Resurrección de Lázaro - Juan 11,1-57**
-23. **Preparativos para la Pascua - Juan 12,1-19**
-24. **La hora de la gloria - Juan 12,20-50**
-25. **Lavatorio de pies - Juan 13,1-38**
-26. **El camino, la verdad y la vida - Juan 14,1-14**
-27. **Promesa del Espíritu Santo - Juan 14,15-31**
-28. **Jesús la vid verdadera - Juan 15,1-27**
-29. **El mundo os odiará - Juan 16,1-33**
-30. **Oración de Jesús por sus discípulos - Juan 17,1-26**
-31. **Arresto y juicio de Jesús - Juan 18,1-40**
-32. **Pasión y crucifixión - Juan 19,1-42**
-33. **Resurrección y apariciones - Juan 20,1-31**
-34. **Aparición a los discípulos - Juan 21,1-25**
+# 50. Evangelio según San Juan (68 historias)
+## 1. PRÓLOGO (Jn 1:1-18)
+## 2. PRIMERA PARTE: LA MANIFESTACIÓN DE JESÚS COMO EL MESÍAS, MEDIANTE SUS SIGNOS Y PALABRAS
+### I. INTRODUCCIÓN
+#### 1. Testimonio del Bautista (Jn 1:19-34)
+#### 2. Vocación de los primeros discípulos (Jn 1:35-51)
+### II. JESÚS, PORTADOR DE LA SALVACIÓN: PRIMERAS MANIFESTACIONES DE FE
+#### 1. Bodas de Caná: primer signo realizado por Jesús (Jn 2:1-12)
+#### 2. Purificación del Templo: Cristo, nuevo Templo de Dios (Jn 2:13-22)
+#### 3. Revelación a Nicodemo (Jn 3:1-21)
+#### 4. Nuevo testimonio del Bautista (Jn 3:22-36)
+#### 5. Revelación a la samaritana (Jn 4:1-42)
+#### 6. Curación del hijo de un funcionario: segundo signo de Jesús (Jn 4:43-54)
+### III. JESÚS MANIFIESTA SU DIVINIDAD
+#### 1. Curación en sábado de un paralítico en el estanque de Betesda (Jn 5:1-18)
+#### 2. Jesús actúa con el poder de Dios: discurso sobre la vida y la muerte (Jn 5:19-47)
+### IV. JESÚS ES EL PAN DE VIDA
+#### 1. El signo de la multiplicación de los panes (Jn 6:1-15)
+#### 2. El milagro de caminar sobre las aguas (Jn 6:16-21)
+#### 3. Las multitudes buscan a Jesús (Jn 6:22-25)
+#### 4. Discurso del Pan de Vida (Jn 6:26-34)
+#### 5. Jesús es el Pan de Vida porque revela al Padre (Jn 6:35-47)
+#### 6. Jesús es el Pan de Vida en la Eucaristía (Jn 6:48-59)
+#### 7. Reacción de los discípulos (Jn 6:60-71)
+### V. JESÚS, ENVIADO DEL PADRE, LUZ DEL MUNDO Y BUEN PASTOR
+#### 1. Jesús en Jerusalén durante la fiesta de los Tabernáculos (Jn 7:1-13)
+#### 2. Origen divino de la doctrina de Jesús (Jn 7:14-24)
+#### 3. Origen divino de Jesús (Jn 7:25-30)
+#### 4. Jesús debe volver al Padre (Jn 7:31-39)
+#### 5. Diversos pareceres sobre Jesús (Jn 7:40-53)
+#### 6. La mujer adúltera: Jesús Juez (Jn 8:1-11)
+#### 7. Jesús, Luz del mundo (Jn 8:12-20)
+#### 8. Jesús se declara Enviado del Padre (Jn 8:21-30)
+#### 9. La libertad de quien crea en Jesús (Jn 8:31-38)
+#### 10. El verdadero linaje de Abrahán (Jn 8:39-51)
+#### 11. Jesús se declara anterior a Abrahán (Jn 8:52-59)
+#### 12. Curación del ciego de nacimiento (Jn 9:1-23)
+#### 13. Ceguera de los judíos incrédulos (Jn 9:24-41)
+#### 14. Jesús, el Buen Pastor (Jn 10:1-21)
+### VI. JESÚS Y EL PADRE
+#### 1. Jesús declara su unidad con el Padre (Jn 10:22-30)
+#### 2. Reacciones entre los judíos (Jn 10:31-42)
+### VII. JESÚS ES LA RESURRECCIÓN Y LA VIDA
+#### 1. Reacción de Jesús ante la muerte de Lázaro (Jn 11:1-37)
+#### 2. Jesús resucita a Lázaro (Jn 11:38-44)
+#### 3. El Sanedrín decreta la muerte de Jesús (Jn 11:45-57)
+### VIII. JESÚS, ACLAMADO REY MESIÁNICO
+#### 1. Jesús es ungido por María (Jn 12,1-11)
+#### 2. Entrada triunfal en Jerusalén (Jn 12,12-19)
+#### 3. Jesús anuncia su glorificación mediante su muerte (Jn 12,20-36)
+#### 4. Jesús invita de nuevo a creer en Él (Jn 12,37-50)
+## SEGUNDA PARTE: MANIFESTACIÓN DE JESÚS COMO EL MESÍAS, HIJO DE DIOS, EN SU PASIÓN, MUERTE Y RESURRECCIÓN
+### IX. LA ÚLTIMA CENA
+#### 1. Jesús lava los pies a sus discípulos (Jn 13,1-20)
+#### 2. Anuncio de la traición de Judas (Jn 13,21-32)
+#### 3. El mandamiento nuevo (Jn 13,33-35)
+#### 4. Predicción del abandono de sus discípulos (Jn 13,36-38)
+#### 5. Jesús revela al Padre (Jn 14,1-14)
+#### 6. Promesa del Espíritu Santo (Jn 14,15-31)
+#### 7. La vid y los sarmientos (Jn 15,1-8)
+#### 8. La ley del amor (Jn 15,9-17)
+#### 9. El odio del mundo a los discípulos (Jn 15,18-27)
+#### 10. La acción del Espíritu Santo (Jn 16,1-15)
+#### 11. La plenitud de gozo (Jn 16,16-33)
+#### 12. Oración sacerdotal de Jesús (Jn 17, 1-26)
+### X. PASIÓN Y MUERTE DE JESÚS
+#### 1. Prendimiento de Jesús (Jn 18,1-12)
+#### 2. Interrogatorio ante los príncipes de los sacerdotes (Jn 18,13-24)
+#### 3. Negaciones de San Pedro (Jn 18,25-27)
+#### 4. Juicio ante Pilato: Jesús Rey (Jn 18,28-40)
+#### 5. Flagelación y coronación de espinas (Jn 19,1-3)
+#### 6. Pilato entrega a Jesús (Jn 19,4-16)
+#### 7. Crucifixión y muerte de Jesús (Jn 19,17-30)
+#### 8. La lanzada (Jn 19,31-37)
+#### 9. Sepultura de Jesús (Jn 19,38-42)
+### XI. APARICIONES DE JESÚS RESUCITADO
+#### 1. El sepulcro vacío (Jn 20,1-10)
+#### 2. Aparición a María Magdalena (Jn 20,11-18)
+#### 3. Primera aparición a sus discípulos (Jn 20,19-23)
+#### 4. Nueva aparición a los discípulos estando Tomás (Jn 20,24-31)
+#### 5. La pesca milagrosa (Jn 21,1-14)
+#### 6. El Primado de San Pedro (Jn 21,15-23)
+#### 7. Conclusión (Jn 21,24-25)
