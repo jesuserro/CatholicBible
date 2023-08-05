@@ -2,7 +2,7 @@
 
 ## Overview
 
-Explore the **Catholic Bible** in Markdown format, offering a true and loyal glimpse into the divinity of Christ through [Early Christians tradition](https://en.wikipedia.org/wiki/Early_Christianity). This repository provides a user-friendly way to read, study, and integrate the Bible into your preferred text editor.
+Welcome to my **Catholic Bible** in Markdown format. This repository provides a user-friendly way to read, study, and integrate the Bible into your preferred text editor.
 
 ## Highlights
 
@@ -17,6 +17,10 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 #### Contrasting Modern or Diluted Catholic Translations
   - Delve into Verses Often Omitted in Modern Catholic Translations
 
+#### Comprehensive Section Divisions for Better Understanding
+  - Gain a Deeper Understanding of the Bible's Structure and Organization though this project's indexes or [Table of Contents](https://github.com/jesuserro/CatholicBible/blob/main/en/Jn/Jn-index.md)
+  - Based on **Navarre Bible's** [Section Divisions](https://opusdei.org/es-es/article/biblia-digital-universidad-de-navarra/)
+
 #### Inspired by the Jerusalem Bible
   - The the [Jerusalem Bible](https://en.wikipedia.org/wiki/Jerusalem_Bible) seeks to provide an authentic understanding of the Bible's original languages
   - Known for its scholarly approach and dedication to capturing the literary and cultural nuances of the original Hebrew and Greek texts of the Scriptures 
@@ -28,7 +32,6 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
   - Your thoughts are yours
   - Your knowledge should last
   - Your mind is unique
-- Comprehensive Section Divisions for Better Understanding
 - Interlinked Files for Easy Navigation and Reference
 - Supporting Multi-Language Translations for Broader Access
 
