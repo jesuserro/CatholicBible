@@ -47,8 +47,5 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 - Join a Community of Enthusiasts Exploring the Bible's Depth, Engage in Conversations and Share Insights in the [Discussions Forum](https://github.com/jesuserro/CatholicBible/discussions)
 
 ## License
+This project is available to everyone under the standard **[MIT LICENSE](LICENSE)**, allowing for free usage, modification, and distribution for non-commercial purposes, driven by faith and service to Jesus Christ.
 
-This project is licensed under the **MIT License**, allowing for free usage, modification, and distribution for non-commercial purposes, driven by faith and service to Jesus Christ, while providing some liability protection.
-
-Copyright (c) 2023 Jesús Erro
-For details, please see the [LICENSE](LICENSE) file.
