@@ -18,8 +18,8 @@ Welcome to my **Catholic Bible** in Markdown format. This repository provides a 
   - Delve into Verses Often Omitted in Modern Catholic Translations
 
 #### Comprehensive Section Divisions for Better Understanding
-  - Gain a Deeper Understanding of the Bible's Structure and Organization though this project's indexes or [Table of Contents](https://github.com/jesuserro/CatholicBible/blob/main/en/Jn/Jn-index.md)
-  - Based on **Navarre Bible's** [Section Divisions](https://opusdei.org/es-es/article/biblia-digital-universidad-de-navarra/)
+  - Gain a Deeper Understanding of the Bible's Structure and Organization though [indexes](https://github.com/jesuserro/CatholicBible/blob/main/en/Jn/Jn-index.md)
+  - Based on [Navarre Bible's](https://opusdei.org/es-es/article/biblia-digital-universidad-de-navarra/) Section Divisions
 
 #### Inspired by the Jerusalem Bible
   - The the [Jerusalem Bible](https://en.wikipedia.org/wiki/Jerusalem_Bible) seeks to provide an authentic understanding of the Bible's original languages
