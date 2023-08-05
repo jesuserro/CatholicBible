@@ -8,15 +8,19 @@ Explore the **Catholic Bible** in Markdown format, offering a true and loyal gli
 
 ### The Bible
 
-- Rooted in the Richness of [Early Christian Traditions](https://en.wikipedia.org/wiki/Early_Christianity)
-  - Gain Insights into the Profound Theological Knowledge of the Tradition
-- Emphasis on Maintaining the Integrity of Christ's Divinity
+#### Rooted in the Richness of Early Christian Traditions
+  - Gain Insights into the Profound Theological Knowledge of the [Early Christian Traditions](https://en.wikipedia.org/wiki/Early_Christianity)
+
+#### Maintaining the Integrity of Christ's Divinity
   - Faithfully Represented Verses on Christ's Divinity
-- Contrasting Modern or Diluted Catholic Translations
+
+#### Contrasting Modern or Diluted Catholic Translations
   - Delve into Verses Often Omitted in Modern Catholic Translations
-- Inspired by the [Jerusalem Bible](https://en.wikipedia.org/wiki/Jerusalem_Bible)
+
+#### Inspired by the Jerusalem Bible
+  - The the [Jerusalem Bible](https://en.wikipedia.org/wiki/Jerusalem_Bible) seeks to provide an authentic understanding of the Bible's original languages
   - Known for its scholarly approach and dedication to capturing the literary and cultural nuances of the original Hebrew and Greek texts of the Scriptures 
-  - The Jerusalem Bible seeks to provide an authentic understanding of the Bible's original languages
+  
 
 ### Markdown
 
