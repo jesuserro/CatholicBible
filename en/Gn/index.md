@@ -1,7 +1,7 @@
 # GENESIS (Gn 1-50)
 
-## 1. FIRST PART: CREATION AND EARLY HUMANITY (Gn 1,1-11,26)
-### 1. I. ORIGINS OF HEAVEN AND EARTH (Gn 1,1-4,26)
+## FIRST PART: CREATION AND EARLY HUMANITY (Gn 1,1-11,26)
+### I. ORIGINS OF HEAVEN AND EARTH (Gn 1,1-4,26)
 1. Creation account. (Gn 1,1-2,4a)
 2. Creation of Adam. (Gn 2,4b-7)
 3. Man in paradise. (Gn 2,8-17)
@@ -13,11 +13,11 @@
 9. Descendants of Cain. (Gn 4,17-24)
 10. Birth of Seth. (Gn 4,25-26)
 
-### 2. II. DESCENDANTS OF ADAM. FROM SETH TO NOAH (Gn 5,1-6,1-8)
+### II. DESCENDANTS OF ADAM. FROM SETH TO NOAH (Gn 5,1-6,1-8)
 1. Multiplication of humanity. (Gn 5,1-32)
 2. Spread of evil on the earth. (Gn 6,1-8)
 
-### 3. III. HISTORY AND DESCENDANTS OF NOAH (Gn 6,9-18,29)
+### III. HISTORY AND DESCENDANTS OF NOAH (Gn 6,9-18,29)
 1. Announcement of the flood. (Gn 6,13-7,4)
 2. Entry into the ark. (Gn 7,5-10)
 3. The flood. (Gn 7,11-24)
@@ -26,16 +26,16 @@
 6. God's covenant with Noah. (Gn 9,1-17)
 7. Curse of Canaan and blessing of Shem. (Gn 9,18-29)
 
-### 4. IV. ORIGIN OF NATIONS. THE TOWER OF BABEL
+### IV. ORIGIN OF NATIONS. THE TOWER OF BABEL
 1. Descendants of Japheth. (Gn 10,2-5)
 2. Descendants of Ham. (Gn 10,6-20)
 3. Descendants of Shem. (Gn 10,21-32)
 4. The confusion of languages: Babel. (Gn 11,1-9)
 
-### 5. V. THE SEMITES (Gn 11,10-26)
+### V. THE SEMITES (Gn 11,10-26)
 
-## 2. SECOND PART: ORIGIN AND FORMATION OF THE CHOSEN PEOPLE (Gn 11,27-50,26)
-### 1. VI. FAMILY AND HISTORY OF ABRAHAM (Gn 11,27-25,11)
+## SECOND PART: ORIGIN AND FORMATION OF THE CHOSEN PEOPLE (Gn 11,27-50,26)
+### VI. FAMILY AND HISTORY OF ABRAHAM (Gn 11,27-25,11)
 1. Calling of Abram and divine promise. (Gn 12,1-9)
 2. Abram in Egypt. (Gn 12,10-20)
 3. Abram in Bethel. (Gn 13,1-7)
@@ -71,9 +71,9 @@
 33. Other descendants of Abraham. (Gn 25,1-6)
 34. Death and burial of Abraham. (Gn 25,7-11)
 
-### 2. VII. DESCENDANTS OF ISHMAEL (Gn 25,12-18)
+### VII. DESCENDANTS OF ISHMAEL (Gn 25,12-18)
 
-### 3. VIII. DESCENDANTS OF ISAAC. HISTORY OF JACOB (Gn 25,19-35,29)
+### VIII. DESCENDANTS OF ISAAC. HISTORY OF JACOB (Gn 25,19-35,29)
 1. Birth of Esau and Jacob. (Gn 25,19-26)
 2. Esau sells the birthright. (Gn 25,27-34)
 3. Isaac in Gerar: Encounter with Abimelech. (Gn 26,1-14a)
@@ -103,9 +103,9 @@
 27. Reuben's transgression. (Gn 35,21-22a)
 28. Jacob arrives in Hebron. Isaac's death. (Gn 35,22b-29)
 
-### 4. IX. DESCENDANTS OF ESAU (Gn 36,1-37,1)
+### IX. DESCENDANTS OF ESAU (Gn 36,1-37,1)
 
-### 5. X. DESCENDANTS OF JACOB. HISTORY OF JOSEPH (Gn 37,2-50,26)
+### X. DESCENDANTS OF JACOB. HISTORY OF JOSEPH (Gn 37,2-50,26)
 1. Joseph and his brothers. (Gn 37,2-4)
 2. Joseph's dreams. (Gn 37,5-11)
 3. Joseph sold as a slave to the Egyptians. (Gn 37,12-36)

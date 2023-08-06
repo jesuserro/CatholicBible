@@ -1,7 +1,7 @@
 # GÉNESIS (Gn 1-50)
 
-## 1. PRIMERA PARTE: CREACIÓN Y PRIMERA ETAPA DE LA HUMANIDAD (Gn 1,1-11,26)
-### 1. I. ORÍGENES DEL CIELO Y TIERRA (Gn 1,1-4,26)
+## PRIMERA PARTE: CREACIÓN Y PRIMERA ETAPA DE LA HUMANIDAD (Gn 1,1-11,26)
+### I. ORÍGENES DEL CIELO Y TIERRA (Gn 1,1-4,26)
 1. Relato de la creación. (Gn 1,1-2,4a)
 2. Creación de Adán. (Gn 2,4b-7)
 3. El hombre en el paraíso. (Gn 2,8-17)
@@ -13,11 +13,11 @@
 9. Descendencia de Caín. (Gn 4,17-24)
 10. Nacimiento de Set. (Gn 4,25-26)
 
-### 2. II. DESCENDENCIA DE ADÁN. DESDE SET A NOÉ (Gn 5,1-6,1-8)
+### II. DESCENDENCIA DE ADÁN. DESDE SET A NOÉ (Gn 5,1-6,1-8)
 1. Multiplicación de la humanidad. (Gn 5,1-32)
 2. Propagación del mal sobre la tierra. (Gn 6,1-8)
 
-### 3. III. HISTORIA Y DESCENDENCIA DE NOÉ (Gn 6,9-18,29)
+### III. HISTORIA Y DESCENDENCIA DE NOÉ (Gn 6,9-18,29)
 1. Anuncio del diluvio. (Gn 6,13-7,4)
 2. Entrada en el arca. (Gn 7,5-10)
 3. El diluvio. (Gn 7,11-24)
@@ -26,16 +26,16 @@
 6. Alianza de Dios con Noé. (Gn 9,1-17)
 7. Maldición de Canaán y bendición de Sem. (Gn 9,18-29)
 
-### 4. IV. ORIGEN DE LOS PUEBLOS. LA CONFUSIÓN DE BABEL
+### IV. ORIGEN DE LOS PUEBLOS. LA CONFUSIÓN DE BABEL
 1. Descendientes de Jafet. (Gn 10,2-5)
 2. Descendientes de Cam. (Gn 10,6-20)
 3. Descendientes de Sem. (Gn 10,21-32)
 4. La confusión de lenguas: Babel. (Gn 11,1-9)
 
-### 5. V. LOS SEMITAS (Gn 11,10-26)
+### V. LOS SEMITAS (Gn 11,10-26)
 
-## 2. SEGUNDA PARTE: ORIGEN Y FORMACIÓN DEL PUEBLO ELEGIDO (Gn 11,27-50,26)
-### 1. VI. FAMILIA E HISTORIA DE ABRAHÁN (Gn 11,27-25,11)
+## SEGUNDA PARTE: ORIGEN Y FORMACIÓN DEL PUEBLO ELEGIDO (Gn 11,27-50,26)
+### VI. FAMILIA E HISTORIA DE ABRAHÁN (Gn 11,27-25,11)
 1. Vocación de Abrán y promesa divina. (Gn 12,1-9)
 2. Abrán en Egipto. (Gn 12,10-20)
 3. Abrán en Betel. (Gn 13,1-7)
@@ -71,9 +71,9 @@
 33. Otros descendientes de Abrahán. (Gn 25,1-6)
 34. Muerte y sepultura de Abrahán. (Gn 25,7-11)
 
-### 2. VII. LA DESCENDENCIA DE ISMAEL (Gn 25,12-18)
+### VII. LA DESCENDENCIA DE ISMAEL (Gn 25,12-18)
 
-### 3. VIII. LA DESCENDENCIA DE ISAAC. HISTORIA DE JACOB (Gn 25,19-35,29)
+### VIII. LA DESCENDENCIA DE ISAAC. HISTORIA DE JACOB (Gn 25,19-35,29)
 1. Nacimiento de Esaú y Jacob. (Gn 25,19-26)
 2. Esaú vende los derechos de primogénito. (Gn 25,27-34)
 3. Isaac en Guerar: encuentro con Abimélec. (Gn 26,1-14a)
@@ -103,9 +103,9 @@
 27. Pecado de Rubén. (Gn 35,21-22a)
 28. Jacob llega a Hebrón. Muerte de Isaac. (Gn 35,22b-29)
 
-### 4. IX. LA DESCENDENCIA DE ESAÚ (Gn 36,1-37,1)
+### IX. LA DESCENDENCIA DE ESAÚ (Gn 36,1-37,1)
 
-### 5. X. LA DESCENDENCIA DE JACOB. HISTORIA DE JOSÉ (Gn 37,2-50,26)
+### X. LA DESCENDENCIA DE JACOB. HISTORIA DE JOSÉ (Gn 37,2-50,26)
 1. José y sus hermanos. (Gn 37,2-4)
 2. Los sueños de José. (Gn 37,5-11)
 3. José vendido como esclavo a los egipcios. (Gn 37,12-36)
