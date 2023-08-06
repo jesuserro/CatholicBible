@@ -82,9 +82,7 @@
 6. Covenant of Isaac with the inhabitants of Canaan. (Gn 26,26-35)
 7. Jacob obtains Isaac's blessing. (Gn 27,1-33)
 8. Esau's reaction. (Gn 27,34-45)
-9. Jacob's departure to his ancestors' region. (Gn 27,46
-
-.28,1-9)
+9. Jacob's departure to his ancestors' region. (Gn 27,46-28,1-9)
 10. Jacob's dream. (Gn 28,10-22)
 11. Jacob's encounter with Laban. (Gn 29,1-14)
 12. Marriage of Jacob to Leah and Rachel. (Gn 29,15-30)
